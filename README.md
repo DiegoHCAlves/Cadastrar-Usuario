@@ -2,5 +2,5 @@
 
 ### [x] Cadastrar usuario 
 ### [x] Pesquisar usuarios 
-### [x] Editar usuario 
-### [x] Excluir usuario 
+### [] Editar usuario 
+### [] Excluir usuario 
